@@ -2,17 +2,5 @@
 
 ### Olá, meu nome é Natália!
 
-<img src="https://img.shields.io/static/v1?label=Overview&message=NATALIA&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
+<img src="https://img.shields.io/static/v1?label=Overview&message=NATALIATAIRA&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
-<p> Eu sou desenvolvedora backend</p>
-
-<div align="center">
-  <h3><b>📍 Profile Visitor Count</b></h3>
-</div>
-
-<p align="center">
-  <img
-    src="https://profile-counter.glitch.me/tairanatalia/count.svg"
-    alt="Número de visitantes no perfil"
-  />
-</p>
