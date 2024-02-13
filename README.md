@@ -5,3 +5,14 @@
 <img src="https://img.shields.io/static/v1?label=Overview&message=NATALIA&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
 <p>Trabalhando na {nome da empresa}<br/> Eu sou desenvolvedor {sua stack}</p>
+
+<div align="center">
+  <h3><b>📍 Profile Visitor Count</b></h3>
+</div>
+
+<p align="center">
+  <img
+    src="https://profile-counter.glitch.me/iuricode/count.svg"
+    alt="Número de visitantes no perfil"
+  />
+</p>
