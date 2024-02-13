@@ -4,7 +4,7 @@
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=NATALIA&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
-<p>Trabalhando na {nome da empresa}<br/> Eu sou desenvolvedor {sua stack}</p>
+<p> Eu sou desenvolvedora backend</p>
 
 <div align="center">
   <h3><b>📍 Profile Visitor Count</b></h3>
