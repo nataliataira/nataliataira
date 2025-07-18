@@ -31,13 +31,16 @@ Se quiser bater um papo, colaborar ou só mandar um alô:
     </a>
   </p>
   <p id="backend">
+    <a href="">
+      <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png" alt="java" height="40"/>
+    </a>
     <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
-      <img src="https://nestjs.com/logo-small-gradient.d792062c.svg" alt="nestjs" width="40" height="40"/>
+      <img src="https://nestjs.com/logo-small-gradient.d792062c.svg" alt="nestjs" height="40"/>
     </a>
   </p>
   <p id="tools">
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="40"/>
     </a>
   </p>
   <p id="database">
