@@ -53,7 +53,7 @@ Se quiser bater um papo, colaborar ou só mandar um alô:
 
 ## 🚀 Projetos em destaque
 
-- **Portfólio Pessoal**: Desenvolvido no bootcamp da gen utilizando o bom e velho trio: o HTML, CSS e JS.
+- **Portfólio Pessoal**: Desenvolvido durante o bootcamp da [Generation Brasil](https://brazil.generation.org/) utilizando o bom e velho trio: HTML, CSS e JS.
 
 
 Fique à vontade pra explorar, dar uma estrela ⭐, ou só curtir a visita silenciosamente — eu faço isso também.
